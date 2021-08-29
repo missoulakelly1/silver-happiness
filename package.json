@@ -15,12 +15,12 @@
     "local-time": "^2.1.0",
     "stimulus": "^2.0.0",
     "trix": "^1.2.0",
-    "turbolinks": "^5.2.0",
-    "webpack": "^4.46.0",
-    "webpack-cli": "^3.3.12"
+    "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
   "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.0.0"
   }
 }
